@@ -1,8 +1,9 @@
-### • User can decide the length of the password \
-### • User can decide to include or not numbers or specialcharacters in password \
-### • We have a copy button to copy the generated password \
+### • User can decide the length of the password 
+### • User can decide to include or not numbers or specialcharacters in password 
+### • We have a copy button to copy the generated password 
 ### • Technologies used - ReactJS, (useEffect, useState,useRef) 
 
+###
 
 
 # Getting Started with Create React App
